@@ -3,7 +3,7 @@
 
 
 ### Select branches:
-# Pera Padala[Click here...](https://github.com/Brrzzy/BSIT1R9/tree/Pera-Padala)
+# Pera Padala [Click here...](https://github.com/Brrzzy/BSIT1R9/tree/Pera-Padala)
 
 
 ## Social accounts
