@@ -3,14 +3,9 @@
 
 
 ### Select Program:
-# >Pera Padala [Download](https://github.com/Brrzzy/BSIT1R9/tree/Pera-Padala)
+# Pera Padala [Download](https://github.com/Brrzzy/BSIT1R9/tree/Pera-Padala)
 
- -
- -
- -
- -
- -
- -
+
 
  Social accounts:
  >[Facebook](https://facebook.com/bjdelantar)
