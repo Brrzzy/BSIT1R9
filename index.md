@@ -1,6 +1,6 @@
 ## WELCOME BSIT 1R9's GITHUB
 
-This directory maintained by Braxxy [Braxxy](https://facebook.com/bjdelantar).
+This directory maintained by Braxxy [Facebook](https://facebook.com/bjdelantar), [Instagram](https://instagram.com/me.brax), [Twitter](https://twitter.com/brrzzy).
 
 ### I created this directory to post our works and spread the learnings that we have.
 
